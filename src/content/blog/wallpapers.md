@@ -9,7 +9,7 @@ draft: false
 description: A collection of my favorite wallpapers.
 ---
 
-## A collection of some of my favorite wallpapers.
+## A collection of some of my favorite wallpapers
 
 >Right click the wallpaper -> Open Image in New Tab to download original.
 
@@ -50,13 +50,3 @@ description: A collection of my favorite wallpapers.
 ![alt text](https://w.wallhaven.cc/full/o3/wallhaven-o3z85l.png "Wallpaper 9")
 
 <br>
-
-
-
-
-
-
-
-
-
-

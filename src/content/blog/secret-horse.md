@@ -54,17 +54,20 @@ Welcome to the Secret Horse website! This site is a personal project built using
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/your-username/secret-horse.git
    cd secret-horse
 
 2. **Install dependencies**:
+
    ```bash
    npm install
-   
+
 3. **Run the development server**:
+
    ```bash
    npm run dev
 
 4. **Open your browser**:
-   Visit http://localhost:3000 to see the site in action.
+   Visit <http://localhost:3000> to see the site in action.
